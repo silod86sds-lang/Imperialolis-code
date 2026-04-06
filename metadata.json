@@ -1,0 +1,5 @@
+{
+  "name": "SIFT - Sistema Integrado de Fiscalização de Trânsito",
+  "description": "Aplicativo para agentes de trânsito registrarem infrações, consultarem veículos e condutores, e gerenciarem multas com lógica inteligente de reincidência.",
+  "requestFramePermissions": []
+}
